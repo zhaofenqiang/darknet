@@ -1,8 +1,2 @@
-![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
-
-#Darknet#
-Darknet is an open source neural network framework written in C and CUDA. It is fast, easy to install, and supports CPU and GPU computation.
-
-For more information see the [Darknet project website](http://pjreddie.com/darknet).
-
-For questions or issues please use the [Google Group](https://groups.google.com/forum/#!forum/darknet).
+##[浙江大学第一届arm人工智能算法大赛](http://www.openailab.com/list-16.html)
+基于YOLO，修改demo.c,完成了C题手势识别的任务
